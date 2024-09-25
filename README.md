@@ -9,6 +9,7 @@
   - CSS
   - JS
   - VSCode
+  - git-bash
  
 Here is the reference link to the project :
 
